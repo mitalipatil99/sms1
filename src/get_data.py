@@ -5,7 +5,7 @@ import urllib.request
 import zipfile
 
 # URL = 'http://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip'
-URL =  'https://surfdrive.surf.nl/files/index.php/s/H4e35DvjaX18pTI/download' # v3 , 2000 datapoints
+URL =  'https://surfdrive.surf.nl/files/index.php/s/HU5mY29RzxRlHCU/download' # v4 , 3000 datapoints
 
 EXTRACT_DIR = "smsspamcollection"
 
